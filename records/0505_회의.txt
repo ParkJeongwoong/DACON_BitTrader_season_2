@@ -5,3 +5,5 @@ ARIMA BASELINE을 사용한 모델은 직선 형태의 예측
 
 ----------
 LSTM을 활용해보기로 결정
+참고 사이트
+https://dschloe.github.io/python/python_edu/07_deeplearning/deep_learning_lstm/
