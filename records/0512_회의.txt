@@ -5,3 +5,7 @@ LSTM이 좋은 결과를 만들어 내지 못했다.
 LGBM과 fbprophet이 그나마 유의미한 결과를 만들어 냈는데,
 LSTM을 하던 사람은 LSTM을 계속 하고,
 다른 분들은 fbprophet을 파보기로 결정했다.
+
+=======
+Multivariate Multi-Step LSTM Models : Multiple Input Multi-Step Output을 만들고
+이를 Colab으로 돌려보았다.

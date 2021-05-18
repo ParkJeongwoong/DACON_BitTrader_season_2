@@ -7,3 +7,8 @@
 - 대회 참여
   - 2021.04.09
 
+
+
+- 사용 모델
+  - ARIMA
+  - LSTM (Multivariate Multi-Step LSTM Models : Multiple Input Multi-Step Output) -> NaN이 나옴
