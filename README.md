@@ -1,6 +1,6 @@
 # 인공지능 비트 트레이터 경진 대회 시즌 2
 
-> Data Analysis / Data Science 스터디 팀원들과 함께 참가한 프로젝트
+> Data Analysis / Data Science 스터디 팀원들과 함께 참가한 프로젝트\
 > https://dacon.io/competitions/official/235712/data/
 
 - 대회 기간
